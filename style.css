@@ -43,7 +43,7 @@
     flex-flow:row wrap;
 }
 .content{
-    width:40vw;
+    width:45vw;
     margin:50px;
 }
 h1 {
@@ -65,25 +65,26 @@ p {
 }
 .image-right {
      width: 550px;
-    height: 911px;
-    margin-top:70px;
-    margin-left:70px;
+    height: 900px;
+    margin-top:100px;
+    margin-left:40px;
 }
 .globalfooter {
     margin-top:50px;
-    margin-left:50px;
+    margin-left:60px;
 } 
 .globalimage {
     width:100vw;
     display:flex;
     flex-flow:row wrap;
     justify-content:space-evenly;
-
+    
 }
 
 img {
     width:350px;
     height:300px;
-    object-fit: contain;
+    object-fit:cover;
+    margin:25px 25px;
 }
 
